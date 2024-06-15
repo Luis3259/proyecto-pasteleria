@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/proyecto-pasteleria/static/css/main.8e03c0d1.css",
+    "main.js": "/proyecto-pasteleria/static/js/main.1af5c708.js",
+    "static/js/453.57cf8a16.chunk.js": "/proyecto-pasteleria/static/js/453.57cf8a16.chunk.js",
+    "index.html": "/proyecto-pasteleria/index.html",
+    "main.8e03c0d1.css.map": "/proyecto-pasteleria/static/css/main.8e03c0d1.css.map",
+    "main.1af5c708.js.map": "/proyecto-pasteleria/static/js/main.1af5c708.js.map",
+    "453.57cf8a16.chunk.js.map": "/proyecto-pasteleria/static/js/453.57cf8a16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e03c0d1.css",
+    "static/js/main.1af5c708.js"
+  ]
+}
