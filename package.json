@@ -2,7 +2,7 @@
   "name": "pasteleria",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://luis3259.github.io/proyecto-pasteleria",
+  "homepage": "https://luis3259.github.io/proyecto-pasteleria/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
